@@ -13,7 +13,7 @@
     <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Exhaust_90">Exhaust 90degree<br><img src="./Exhaust_90/Pic-Index.jpg" alt="1" width=196px></a></td>
   </tr>
      <tr>
-    <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Led_Corners">Misumi Led Corners<br><img src="./Led_Corners/Pic-Index.jpg" alt="1" width=196px></a></td>
+    <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Led_Corners">Misumi Led Corners<br><img src="./Misumi_Led_Corners/Pic-Index.jpg" alt="1" width=196px></a></td>
     <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/PurgeBucket_350_Klicky">Purgebucket 350 Klicky<br><img src="./PurgeBucket_350_Klicky/Pic-Index.jpg" alt="1" width=196px></a></td>
   </tr>
   <tr>
