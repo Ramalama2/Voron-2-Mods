@@ -19,5 +19,4 @@
 - The ADXL Dragon mount is available here: https://github.com/Ramalama2/Voron-2-Mods/tree/main/ADXL_Dragon_Plug
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/ADXL_Dragon_Plug/ADXL_Dragon_Plug-1.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/ADXL_Dragon_Plug/ADXL_Dragon_Plug-2.jpg)
+![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/ADXL_Skirt_Dupont/ADXL_Skirt_Dupont_V1.jpg)
