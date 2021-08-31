@@ -21,6 +21,7 @@
     <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Stiffer_DinMount">Stiffer DIN Mount<br><img src="./Stiffer_DinMount/Pic-Index.jpg" alt="1" width=196px></a></td>
   </tr>
     <tr>
+    <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_Cable_Clip">Misumi Cable Clip<br><img src="./Misumi_Cable_Clip/Pic-Index.jpg" alt="1" width=196px></a></td>
     <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Misumi_RBPB5">Misumi RBPB5 (GE5C Gucci Mod)<br><img src="./Misumi_RBPB5/Pic-Index.jpg" alt="1" width=196px></a></td>
   </tr>
   </table></center>
