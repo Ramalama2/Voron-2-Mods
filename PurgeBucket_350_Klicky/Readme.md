@@ -1,7 +1,7 @@
 ## Purge bucket (Klicky) Mod.
 ##### Credits:
 - @edwardyeeks: [Decontaminator Purge Bucket & Nozzle Scrubber](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber "Decontaminator Purge Bucket & Nozzle Scrubber")
-- Basically his design is already perfect, there is nothing really to improve on it. I just made a small Cut-Out for the Klicky (which you can do tbh yourself with a side cutter yourself xD)
+- Basically his design is already perfect, there is nothing really to improve on it. I just made a small Cut-Out for the Klicky (which you can do tbh yourself with a side cutter xD)
 
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
