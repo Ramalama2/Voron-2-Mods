@@ -17,4 +17,5 @@
 
 ###### Pictures:
 ![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/AB_Plug_JST-XH/Pic-Index.jpg)
+![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/AB_Plug_JST-XH/AB_Connector_Plug_V2.1_2.jpg)
 ![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/AB_Plug_JST-XH/AB_Connector_Plug_V2.1_JstXH.png)
