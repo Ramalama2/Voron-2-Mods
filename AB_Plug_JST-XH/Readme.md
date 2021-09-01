@@ -9,6 +9,7 @@
 ###### Bom:
 - M3x8
 - M3 T-Nut
+- JST-XH 4-Pin
 
 ###### Description:
 - LDO motor steppers comes with that prewired steppers (which doesn't have a plug), so this is exactly for making a "plug" for them that looks clean and beautifull.
