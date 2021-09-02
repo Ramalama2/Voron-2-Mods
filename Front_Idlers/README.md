@@ -19,11 +19,19 @@
 - 2x 3x6 Magnets
 
 ###### Description:
-- The default idlers have the issue, at least for me, that the tensioning screw, splits the 2 pieces apart. Well and if i make anyway a mod, i can try to improve it in every direction.
-- This Front Idlers should be much stiffer either.
-- The idlers are 9mm thinner (For people with bigger AB's), this wasn't my intention, but somehow it happened.
+Why am i doing this:
+1. The default idlers have the issue, at least for me, that the tensioning screw, splits the 2 pieces apart.
+2. The screw where the bearing sits on, gives the bearing a lot of play. This adds to inconsistencies, not much, but why shouldn't we improve it? Check the video:
+https://youtu.be/_tG0CdSuppk
 
-For more Pictures, visit the Pics folder.
+Mod:
+1. Fixes both issues above.
+2. It's stiffer.
+3. The idlers are 9mm thinner (a solution for mantis owners)
+4. I can't help myself, but i like the default idlers look. This ones looks in my opinion less vorondesign and more streamlined. I made some covers, but please feel free to open issues or whatever on GitHub with your opinions, how to give them vorontouch or make them beatifuller.
+
+###### Pictures:
+- For Pictures, visit the Pics folder.
 - Please remember, i am updating the CAD, but i won't update always the pictures.
 - The pictures are already a bit behind at the time of uploading. (But nothing special, only minor optical optimizations)
 
