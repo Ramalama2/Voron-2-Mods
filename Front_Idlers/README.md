@@ -4,7 +4,7 @@
 
 ## Better Front Idlers
 ##### Credits:
-- Myself? :-)
+- Voron-Team & Myself? :-)
 
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
