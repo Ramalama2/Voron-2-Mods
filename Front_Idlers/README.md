@@ -35,4 +35,4 @@ Mod:
 - The pictures are already a bit behind at the time of uploading. (But nothing special, only minor optical optimizations)
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Explosion.jpg)
+![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Explosion_v2.jpg)
