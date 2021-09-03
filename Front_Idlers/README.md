@@ -1,6 +1,7 @@
 # WIP 
-- Work in Progress
+- Testing Phase
 - This repository is just a sneak peak
+- Update: STL's available for testing! Please print and report issues!
 
 ## Better Front Idlers
 ##### Credits:
