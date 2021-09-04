@@ -1,8 +1,8 @@
 # WIP 
 - Testing Phase
-- This repository is just a sneak peak
 - Update (02.09.21): STL's available for testing! Please print and report issues!
 - Update (03.09.21): Added "Upper" Z-Belt-Clamp, i need to redesgn the sliding mechanism. Still unhappy about it.
+- Update (04.09.21): Added the final version, added all CAD/STL Files, needs now longtime testing. Bu should be ready to use! From this point on, i will only update if i or someone else find issues!
 
 ## Better Front Idlers
 ##### Credits:
@@ -10,12 +10,15 @@
 
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
+- The inlet has 53° overhangs, you want to print the inlet maybe with more fan.
+- Everything else should be a breeze to print!
 
 ###### Bom: (Multiply with 2 for Left+Right)
 - 2x M3x30 SHCS
 - 1x M3x8 or M3x10
 - 2x M3 Washer
 - 2x M5 Washer
+- 2x M3-Inserts
 - 2x 695zz Bearing
 - 1x 5x18 Pin (g6)
 - 2x 3x6 Magnets
