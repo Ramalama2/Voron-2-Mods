@@ -1,4 +1,3 @@
-# WIP 
 - Longtime Testing Phase!
 - Update (02.09.21): STL's available for testing! Please print and report issues!
 - Update (03.09.21): Added "Upper" Z-Belt-Clamp, i need to redesgn the sliding mechanism. Still unhappy about it.
