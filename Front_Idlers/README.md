@@ -1,8 +1,9 @@
 # WIP 
-- Testing Phase
+- Longtime Testing Phase!
 - Update (02.09.21): STL's available for testing! Please print and report issues!
 - Update (03.09.21): Added "Upper" Z-Belt-Clamp, i need to redesgn the sliding mechanism. Still unhappy about it.
-- Update (04.09.21): Added the final version, added all CAD/STL Files, needs now longtime testing. Bu should be ready to use! From this point on, i will only update if i or someone else find issues!
+- Update (04.09.21): Added the final version, added all CAD/STL Files, needs now longtime testing. But it should be ready to use! From this point on, i will only update if i or someone else find issues!
+- Update (05.09.21): Improved minimally tolerances. (This is the final Version!). Feel free to use it!
 
 ## Better Front Idlers
 ##### Credits:
@@ -10,8 +11,11 @@
 
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
-- The inlet has 53° overhangs, you want to print the inlet maybe with more fan.
+- The inlet has 53° overhangs, you want to print the inlet with more fan. (At least 50% in an enclusured printer for ABS!)
+- Try to slide the Inlet in the housing, optimally it should slide fine and have almost no play. In worst case, print the inlet with even more fan and slower!
+- Keep in mind, no play is impossible, but there should be only minimal axial play, only in the front of the inlet.
 - Everything else should be a breeze to print!
+- Seam: You don't want the Seam outside, it will look ugly. Rotate the Seam to the extrusion mounting side! (Should be "right"), Check the Picture:<br><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Tipp-Seam.jpg" height="100">
 
 ###### Bom: (Multiply with 2 for Left+Right)
 - 2x M3x30 SHCS
