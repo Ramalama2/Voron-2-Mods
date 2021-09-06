@@ -3,6 +3,7 @@
 - Update (03.09.21): Added "Upper" Z-Belt-Clamp, i need to redesgn the sliding mechanism. Still unhappy about it.
 - Update (04.09.21): Added the final version, added all CAD/STL Files, needs now longtime testing. But it should be ready to use! From this point on, i will only update if i or someone else find issues!
 - Update (05.09.21): Improved minimally tolerances. (This is the final Version!). Feel free to use it!
+- Update (06.09.21): Corrected the mounting Holes, better belt alignment for clamping! (Housing & Z-Belt-Clamp-Upper)
 
 ## Better Front Idlers
 ##### Credits:
