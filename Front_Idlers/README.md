@@ -27,6 +27,15 @@
 - 1x 5x18 Pin (g6)
 - 2x 3x6 Magnets
 
+###### Assembly:
+- i will add later a pic for this.
+- But if people starts sooner:
+- Insert the M5 Shims, the F695zz bearings, one by one and push the pin flush inside. (One by one, because there isn't enough place to put them all together inside)
+- As next step:
+- The M3 inserts, doesn't mean to be inserted hot. Just take the Housing, Housing-Cover, 2x M3 Shims and 2x M3x30 screws, assemble it together and screw the m3 inserts simply inside with the tension of the screws. (They will push fit inside the hole while screwing)
+- The rest is self explanatory.
+- About the covers, i know that the holes there are big, far bigger as needed. But i will release better covers later and maybe different designs.
+
 ###### Description:
 Why am i doing this:
 1. The default idlers have the issue, at least for me, that the tensioning screw, splits the 2 pieces apart.<br><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Pics/Default_Idlers1.jpg" height="100">
