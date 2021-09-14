@@ -21,7 +21,7 @@
 - 1x M3x12 SHCS (Screw Version Only)
 - 4x 6x3 Magnets (Magnetic Version Only)
 
-- The M5x22 doesn't exists. So buy an M5x25 and grind it down to 22. As alternative i think i will make soon simply flatter belt clamps. That way you can simply buy an M5x20 and the M3x10 needs to be replaced with an M3x8. Win/Win
+- The M5x22 doesn't exists. So buy an M5x25 and grind it down to 22. As alternative i think i will make soon simply flatter belt clamps. That way you can simply buy an M5x20.
 
 ###### Description:
 - The whole reason for this is, that GE5C bearings have some play in them. Igus ELGM05 should be better (but i cant confirm, they will arrive soon for comparing either), and hopefully the Misumi RBPB5 bearings have almost no play.
