@@ -23,7 +23,7 @@
 - 2x M3 Washer
 - 2x M5 Washer
 - 2x M3-Inserts
-- 2x 695zz Bearing
+- 2x F695zz or F695-2RS bearing. (You should have this on your actual idler already)
 - 1x 5x18 Pin (g6)
 - 2x 3x6 Magnets
 
