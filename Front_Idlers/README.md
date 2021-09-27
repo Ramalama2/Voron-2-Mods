@@ -24,9 +24,12 @@
 - 2x M3 Washer
 - 2x M5 Washer
 - 2x M3-Inserts
-- 2x 695zz Bearing
+- 2x F695zz or F695-2RS bearing. (You should have this on your actual idler already)
 - 1x 5x18 Pin (g6)
 - 2x 3x6 Magnets
+
+###### Tip:
+- Don't even think to buy the 5x18 Pins. You will need those pins later anyway everywhere. Then additionally most pins that you buy, come in h7 and not g6, means they are slightly too thick and you will have to grind down to fit a bearing. Instead do yourself a favour and buy this one: https://a.aliexpress.com/_mLkPTBH This one comes in g6 (so no grind down needed for the bearing to fit) and you get those in 500mm super cheap. You have simply to cut them to size. Buy directly 2 500mm ones, because you will need them for a lot of other mods either!
 
 ###### Assembly:
 - i will add later a pic for this.
