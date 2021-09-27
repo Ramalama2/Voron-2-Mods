@@ -6,7 +6,7 @@
 
 ###### Printing:
 - Tolerances are very tight, print only with calibrated flowrate
-- To be safe, scale it to 102% in all dimensions. (It's designed to be scaled between 100 & 105%)
+- To be safe, scale it to 100.5% in all dimensions. (It's designed to be scaled between 99 & 102%)
 - Default voron settings, correct orientation, no supports
 
 ###### Bom:
