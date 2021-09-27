@@ -4,6 +4,7 @@
 - Update (04.09.21): Added the final version, added all CAD/STL Files, needs now longtime testing. But it should be ready to use! From this point on, i will only update if i or someone else find issues!
 - Update (05.09.21): Improved minimally tolerances. (This is the final Version!). Feel free to use it!
 - Update (06.09.21): Corrected the mounting Holes, better belt alignment for clamping! (Housing & Z-Belt-Clamp-Upper)
+- Update (27.09.21): Cover Release, the Alpha ones didn't fitted correctly. Tested Front-Idlers and using now! They are a pain in the butt to mount, since you have to push them from the end of the extrusion on. But the work absolutely perfect! Added a Housing for a M3x40mm screw, i had some nice ones that i preferred simply.
 
 ## Better Front Idlers
 ##### Credits:
@@ -18,7 +19,7 @@
 - Seam: You don't want the Seam outside, it will look ugly. Rotate the Seam to the extrusion mounting side! (Should be "right"), Check the Picture:<br><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Tipp-Seam.jpg" height="100">
 
 ###### Bom: (Multiply with 2 for Left+Right)
-- 2x M3x30 SHCS
+- 2x M3x30 SHCS (Full threaded) or M3x40 SHCS (Full threaded)
 - 1x M3x8 or M3x10
 - 2x M3 Washer
 - 2x M5 Washer
