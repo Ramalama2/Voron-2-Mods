@@ -22,13 +22,12 @@
 - The M5x22 doesn't exists. So buy an M5x25 and grind it down to 22! Optionally (i recommend) to thind the screwhead down to 8-8.5mm diameter, this will allow more tilting! Simply put the screw on your drilling machine, turn it on and use a drehmel to grind the head down. Its easy!
 
 ###### Description:
-- The whole reason for this is, that GE5C bearings have some play in them. Igus ELGM05 should be better (but i cant confirm, they will arrive soon for comparing either), and hopefully the Misumi RBPB5 bearings have almost no play.
-- Misumi mentions in the specsheets max 0,035mm axial play. Igus and GE5C have no axial play specifications.
+- The whole reason for this is, that GE5C bearings have some play in them. Igus ELGM05 are a lot better, but i wanted something Gucci and even stiffer with more tilting.
+- Misumi mentions in the specsheets max 0,035mm axial play. Igus and GE5C have no axial play specifications. (But igus have actually no play)
 - This means for me, that with some Grease (Mobilux EP1/EP2), should remove almost all play and the uneven Gantry (it will always press the bearings outside/inside), will do the rest.
 
 ###### Update:
 - After a lot of iterations and a lot of headaches, its finally done. Now i can finally tell the difference, why you probably want to do this either: you will get a lot stiffer gantry that is able to tilt freely.
-- In short, i can do 10k Acceleration on Y! and X anyway, but on X this isnt something special.
 - ADXL tests will follow, need to fix my printer first again, my accelerations made some screws and inserts falling out xD 
 
 ###### Pictures:
