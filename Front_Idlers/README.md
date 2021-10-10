@@ -5,6 +5,7 @@
 - Update (05.09.21): Improved minimally tolerances. (This is the final Version!). Feel free to use it!
 - Update (06.09.21): Corrected the mounting Holes, better belt alignment for clamping! (Housing & Z-Belt-Clamp-Upper)
 - Update (27.09.21): Cover Release, the Alpha ones didn't fitted correctly. Tested Front-Idlers and using now! They are a pain in the butt to mount, since you have to push them from the end of the extrusion on. But the work absolutely perfect! Added a Housing for a M3x40mm screw, i had some nice ones that i preferred simply.
+- Update (08.10.21): Just to take out some confusion: Front-Idlers_Housing and Front-Idlers_Housing-40mm, are the same, there is no difference other as, the default is for 30mm screws and the 40mm for 40mm screws. Use simply the one which you have screws for!
 
 ## Better Front Idlers
 ##### Credits
