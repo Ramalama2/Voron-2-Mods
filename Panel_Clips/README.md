@@ -5,7 +5,7 @@
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
 
-###### Bom: (Multiply with 4 for all corners)
+###### Bom:
 - Nothing
 
 ###### Description:
@@ -13,7 +13,7 @@
 - 4mm Version = 3mm thick panels + 1mm Foam.
 - 5mm Version = 3mm Panels + 2mm Foam.
 - 6mm Version = 3mm Panels + 3mm Foam.
-- For other versions, please pring me in Discord!
+- For other versions, please ping me in Discord!
 
 ###### Pictures:
 ![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Panel_Clips/Description.jpg)
