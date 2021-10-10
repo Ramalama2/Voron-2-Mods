@@ -5,7 +5,7 @@
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
 
-###### Bom: (Multiply with 4 for all corners)
+###### Bom:
 - Nothing
 
 ###### Description:
