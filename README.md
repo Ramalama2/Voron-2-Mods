@@ -26,9 +26,6 @@
   </tr>
     <tr>
     <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers">Better Front Idlers<br><img src="./Front_Idlers/Pic-Index.jpg" alt="1" width=196px></a></td>
-  </tr>
-    </tr>
-    <tr>
-    <td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Panel_Clips">New Panel Clips<br><img src="./Panel_Clips/Pic_Index.jpg" alt="1" width=196px></a></td>
+	<td><a href="https://github.com/Ramalama2/Voron-2-Mods/tree/main/Panel_Clips">New Panel Clips<br><img src="./Panel_Clips/Pic_Index.jpg" alt="1" width=196px></a></td>
   </tr>
   </table></center>
