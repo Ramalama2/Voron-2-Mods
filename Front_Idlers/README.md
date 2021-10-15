@@ -57,3 +57,7 @@ Mod:
 - [Visit the Pics folder](https://github.com/clee/Voron-2-Mods/tree/main/Front_Idlers/Pics).
 - Please remember, I am updating the CAD, but I won't always update the pictures.
 - The pictures are already a bit behind at the time of uploading. (But nothing special, only minor optical optimizations)
+
+###### Mods (Covers):
+- Cover by henrikssn:
+![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/henrikssn-cover.jpg)
