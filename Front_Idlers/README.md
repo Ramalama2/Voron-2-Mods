@@ -7,7 +7,7 @@
 - Update (27.09.21): Cover Release, the Alpha ones didn't fitted correctly. Tested Front-Idlers and using now! They are a pain in the butt to mount, since you have to push them from the end of the extrusion on. But the work absolutely perfect! Added a Housing for a M3x40mm screw, i had some nice ones that i preferred simply.
 - Update (08.10.21): Just to take out some confusion: Front-Idlers_Housing and Front-Idlers_Housing-40mm, are the same, there is no difference other as, the default is for 30mm screws and the 40mm for 40mm screws. Use simply the one which you have screws for!
 - Update (04.11.21): Thanks to Long, there is now an Inlet with a bigger Pinhole, we recommend the 5.1 Version. Something else: Ignore the GE5C version, this is just a test, you can use the normal Version. When i get a bit more time, i will update the idlers and make some nice Covers etc... Will give them a bit love. But rn, i have no time, sry :-(
-- Update (10.11.21): GE5C "Offset" Version... There is a dot at the back, the dot should point to the GE5C Z-Joint side. Use hartk's "belt-clamp-lower-offset" and my "Front-Idlers_Z-Belt-Clamp-Upper-" Left & Right!
+- Update (10.11.21): GE5C "Offset" Version... There is a dot at the back, the dot should point to the GE5C Z-Joint side. Use hartk's z-belt-clamp-lower: https://github.com/hartk1213/MISC/blob/main/Voron%20Mods/Voron%202/2.4/Voron2.4_GE5C/STLs/%5Ba%5D_z_belt_clamp_lower_x4.stl and my "Front-Idlers_Z-Belt-Clamp-Upper-" Left & Right!
 
 ## Better Front Idlers
 ##### Credits
