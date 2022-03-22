@@ -19,5 +19,5 @@ Blurolls->height: 8mm / OD=12-14mm
 - So for exactly this reason, this repo includes a modified Brush-Holder.
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/PurgeBucket_350_Klicky/PurgeBucket_350_Klicky.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/PurgeBucket_350_Klicky/Pic-Index.jpg)
+![](./PurgeBucket_350_Klicky.jpg)
+![](./Pic-Index.jpg)

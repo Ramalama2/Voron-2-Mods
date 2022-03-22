@@ -23,5 +23,5 @@
 - Updated version, that is not tolerance dependent and will fit perfectly without calibrated flowrate or scaling.
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/ADXL_Dragon_Plug/ADXL_Dragon_Plug-1.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/ADXL_Dragon_Plug/ADXL_Dragon_Plug-2.jpg)
+![](./ADXL_Dragon_Plug-1.jpg)
+![](./ADXL_Dragon_Plug-2.jpg)

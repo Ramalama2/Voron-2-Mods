@@ -34,6 +34,6 @@
 - As Tipp: Mainsail shows the actual printing layer in the status, so you don't have to sit near your printer and monitor it. And you know roughly when the printer will pause.
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Exhaust_90/Exhaust_90_V2.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Exhaust_90/How-To_Grill.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Exhaust_90/Foam-Tipp.jpg)
+![](./Exhaust_90_V2.jpg)
+![](./How-To_Grill.jpg)
+![](./Foam-Tipp.jpg)

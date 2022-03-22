@@ -12,4 +12,4 @@
 - It's by default for Ø15mm hole on a 3mm plate, but you can simply scale it in your slicer to your needs.
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Bedhole_Plug/Bedhole_Plug_V1.jpg)
+![](./Bedhole_Plug_V1.jpg)

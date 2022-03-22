@@ -17,6 +17,6 @@
 
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_Led_Corners/Led_Corners_1.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_Led_Corners/Led_Corners_2.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_Led_Corners/Pic-Index.jpg)
+![](./Led_Corners_1.jpg)
+![](./Led_Corners_2.jpg)
+![](./Pic-Index.jpg)
