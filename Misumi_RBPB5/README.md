@@ -1,4 +1,5 @@
 # UPDATE
+- 23.03.2022: Made the tolerance for the Z-Joint (Inventor Ipt file) parametric and added a version with 0,15mm tolerance for the RBPB5 Bearing!
 - 27.09.2021: Final Release of CAD & STL Files! Please keep in mind that i need to update descriptions. The BOM is still correct!
 - Please keep in mind, i didn't updated the pictures, the Z-Joints are looking a bit different now!
 
@@ -31,8 +32,8 @@
 - ADXL tests will follow, need to fix my printer first again, my accelerations made some screws and inserts falling out xD 
 
 ###### Pictures:
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Assembly.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Misumi_RBPB5-1.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Misumi_RBPB5-3.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Misumi_RBPB5-4.jpg)
-![](https://github.com/Ramalama2/Voron-2-Mods/raw/main/Misumi_RBPB5/Screw_Version-Rendering.jpg)
+![](./Screw_Version-Assembly.jpg)
+![](./Misumi_RBPB5-1.jpg)
+![](./Misumi_RBPB5-3.jpg)
+![](./Misumi_RBPB5-4.jpg)
+![](./Screw_Version-Rendering.jpg)
