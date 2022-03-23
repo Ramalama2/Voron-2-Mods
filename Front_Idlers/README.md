@@ -36,11 +36,11 @@ Update (22.03.22): A Special Thanks to TadasMit, who bought you the Trident Vers
   <summary>
     Print Settings:
   </summary>
-- Default Voron settings, correct orientation, no supports needed!
-- The inlet has 53° overhangs; you want to print the inlet with higher fan speed. (At least 50% in an enclosed printer for ABS!)
-- Try to slide the Inlet in the housing, optimally it should slide fine and have almost no play. In worst case, print the inlet with even more fan and slower!
-- Keep in mind, no play is impossible, but there should be only minimal axial play, only in the front of the inlet.
-- Everything else should be a breeze to print!
+- Default Voron settings, correct orientation, no supports needed!<br>
+- The inlet has 53° overhangs; you want to print the inlet with higher fan speed. (At least 50% in an enclosed printer for ABS!)<br>
+- Try to slide the Inlet in the housing, optimally it should slide fine and have almost no play. In worst case, print the inlet with even more fan and slower!<br>
+- Keep in mind, no play is impossible, but there should be only minimal axial play, only in the front of the inlet.<br>
+- Everything else should be a breeze to print!<br>
 - Seam: You don't want the seam outside, it will look ugly. Rotate the seam to the extrusion mounting side! (Should be "right"), Check the Picture:<br>
 <center><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Pics/Tipp-Seam.jpg" height="100"></center>
 </details>
