@@ -17,6 +17,6 @@
     <td align="center"><a href="./Stiffer_DinMount">Stiffer DIN Mount<br><img src="./Stiffer_DinMount/Pic-Index.jpg" alt="1" width=196px></a></td>
   </tr>
     <tr>
-    <td colspan="2" align="center"><a href="./Depricated">Depricated Stuff<br><img src="./Depricated/Pic-Index.png" alt="1" width=196px></a></td>
+    <td colspan="2" align="center"><a href="./Deprecated">Deprecated Stuff<br><img src="./Deprecated/Pic-Index.png" alt="1" width=196px></a></td>
   </tr>
   </table>
