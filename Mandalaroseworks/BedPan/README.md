@@ -22,7 +22,8 @@ Release (24.07.22): Release!
 * Community: Feelingwise discord is a Place filled with only nice and always helpful People! A special thanks to all of them, i personally just love everyone there!<br>
 </details>
 
-![](./Remove_BED.mp4)
+<video src='./https://github.com/Ramalama2/Voron-2-Mods/blob/main/Mandalaroseworks/BedPan/Bucket.mp4?raw=true' width=180/>
+![](./https://github.com/Ramalama2/Voron-2-Mods/blob/main/Mandalaroseworks/BedPan/Bucket.mp4?raw=true)
 ![](./Bucket.mp4)
 ![](./Mount_BED.mp4)
 
