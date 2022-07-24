@@ -10,9 +10,9 @@ Release (24.07.22): Release!
 #
 
 ## Videos:
-Remove Bed: https://youtube.com/shorts/P7dfdtHAS0U
-Mount Bed: https://www.youtube.com/shorts/KiGKaBCcbPg
-Bucket: https://www.youtube.com/shorts/od5NZhmdGk4
+Remove Bed: https://youtube.com/shorts/P7dfdtHAS0U<br>
+Mount Bed: https://www.youtube.com/shorts/KiGKaBCcbPg<br>
+Bucket: https://www.youtube.com/shorts/od5NZhmdGk4<br>
 
 #
 
@@ -20,7 +20,7 @@ Bucket: https://www.youtube.com/shorts/od5NZhmdGk4
 
 <details>
   <summary>
-    CREDITS: Midnite3DP, Mandalaroseworks & all the great people we have in our community :-)
+    CREDITS: Midnite3DP, Mandalaroseworks & all the great people we have in our community :-)<br>
   </summary>
 * Midnite3DP: <a href="https://github.com/Midnite3DP/voron-bedpan">Original Bedpan</a>, Thank you very much for the Idea!!! It's basically his work just with a lot modifications, cableholder and a new bucket :-)<br>
 * Mandalaroseworks: Thanks guys for making that amazing Kinematic Mount! Without you, this won't be possible!<br>
