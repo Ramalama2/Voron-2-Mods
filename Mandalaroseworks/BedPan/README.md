@@ -10,7 +10,7 @@ Release (24.07.22): Release!
 #
 
 <video width="320" height="240" controls>
-  <source src="https://cloud.golima.de/s/i76SeKRBezqQYdx" type="video/mp4">
+  <source src="https://cloud.golima.de/s/i76SeKRBezqQYdx/download/Bucket.mp4" type="video/mp4">
 </video>
 
 
