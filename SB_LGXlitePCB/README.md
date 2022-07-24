@@ -36,8 +36,8 @@ Release (24.07.22): Release!
     Where can i get the Fan-PCB from?:
   </summary>
 - JlcPCB: All you need is the <a href="./PCB">Gerber File</a><br>
-- Discord: Gi7mo!#4618 -> He has them already on Stock! (Germany/EU)
-- Note: The mainpcb is default hartk, only the fanpcb changed a bit!
+- Discord: Gi7mo!#4618 -> He has them already on Stock! (Germany/EU)<br>
+- Note: The mainpcb is default hartk, only the fanpcb changed a bit!<br>
 </details>
 
 <details>
