@@ -47,10 +47,14 @@ Bucket: https://www.youtube.com/shorts/od5NZhmdGk4<br>
   <summary>
     Description:
   </summary>
-Get the Power of your Kinematics mount! Easy removable and mountable bed and Bucket!<br>
-There is not much to say, watch simply the Video!<br>
+- Get the Power of your Kinematics mount! Easy removable and mountable bed and Bucket!<br>
+- There is not much to say, watch simply the Video!<br>
+- Klicky/KlickyNG/etc Compatibility! I thought about that and you can drive fully over the bucket at Z0 with klicky attached without to worry about!
 </details>
 
 ## Pictures:
 ![](./Images/BOM.jpg)
 ![](./Images/1.jpg)
+![](./Images/2.jpg)
+![](./Images/3.jpg)
+![](./Images/4.jpg)
