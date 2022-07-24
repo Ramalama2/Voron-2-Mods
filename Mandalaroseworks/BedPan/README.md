@@ -8,9 +8,9 @@ Release (24.07.22): Release!
 </details>
 
 #
-https://youtube.com/shorts/P7dfdtHAS0U
-https://youtube.com/shorts/KiGKaBCcbPg
-https://youtube.com/shorts/od5NZhmdGk4
+<center>[<img src="https://img.youtube.com/vi/P7dfdtHAS0U/maxresdefault.jpg" width="50%">](https://youtu.be/P7dfdtHAS0U)<br>
+[<img src="https://img.youtube.com/vi/KiGKaBCcbPg/maxresdefault.jpg" width="50%">](https://youtu.be/KiGKaBCcbPg)<br>
+[<img src="https://img.youtube.com/vi/od5NZhmdGk4/maxresdefault.jpg" width="50%">](https://youtu.be/od5NZhmdGk4)<br></center>
 
 #
 
