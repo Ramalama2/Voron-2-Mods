@@ -8,9 +8,11 @@ Release (24.07.22): Release!
 </details>
 
 #
-<center>[<img src="https://img.youtube.com/vi/P7dfdtHAS0U/maxresdefault.jpg" width="50%">](https://youtu.be/P7dfdtHAS0U)<br>
-[<img src="https://img.youtube.com/vi/KiGKaBCcbPg/maxresdefault.jpg" width="50%">](https://youtu.be/KiGKaBCcbPg)<br>
-[<img src="https://img.youtube.com/vi/od5NZhmdGk4/maxresdefault.jpg" width="50%">](https://youtu.be/od5NZhmdGk4)<br></center>
+
+<video width="320" height="240" controls>
+  <source src="Mount_BED.mp4" type="video/mp4">
+</video>
+
 
 #
 
