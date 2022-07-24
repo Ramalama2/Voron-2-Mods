@@ -9,10 +9,10 @@ Release (24.07.22): Release!
 
 #
 
-<video width="320" height="240" controls>
-  <source src="https://cloud.golima.de/s/i76SeKRBezqQYdx/download/Bucket.mp4" type="video/mp4">
-</video>
-
+## Videos:
+Remove Bed: https://youtube.com/shorts/P7dfdtHAS0U
+Mount Bed: https://www.youtube.com/shorts/KiGKaBCcbPg
+Bucket: https://www.youtube.com/shorts/od5NZhmdGk4
 
 #
 
