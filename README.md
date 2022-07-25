@@ -2,6 +2,7 @@
 <table align="center">
   <tr>
     <td align="center"><a href="./Mandalaroseworks">Mandalaroseworks<br><img src="./Mandalaroseworks/index.jpg" alt="1" width=196px></a></td>
+    <td align="center"><a href="./SB_LGXlitePCB">Stealthburner LGX lite<br><img src="./SB_LGXlitePCB/Images/1.jpg" alt="1" width=196px></a></td>
   </tr>
   <tr>
     <td align="center"><a href="./Front_Idlers">Front Idlers<br><img src="./Front_Idlers/Pic-Index.jpg" alt="1" width=196px></a></td>
