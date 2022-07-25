@@ -1,7 +1,8 @@
 ## Changelog:
+- 25.07.2022: Cable Cover, First test, please try and report back. It may be a little thin xD<br>
 - 25.07.2022: <a href="./Option_without_LGXlite-FanPCB">New Option without FanPCB</a>. See this as an emergency option,<br>
 this will work with the Standard FanPCB from hartk!<br>
-But at least you can now get the thing running and replace later when you get the Lgx lite FanPCB.
+But at least you can now get the thing running and replace later when you get the Lgx lite FanPCB.<br>
 -Release (24.07.22): Release!
 <details>
   <summary>
