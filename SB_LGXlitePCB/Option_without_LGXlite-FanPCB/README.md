@@ -1,4 +1,4 @@
-#<br>
+<br>
 - This is an option to rescue if you don't have/can't get the LGX lite Fan-PCB.<br>
 - It is not tested yet, so feel free to try :-)<br>
 <br>
