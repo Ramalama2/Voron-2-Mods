@@ -1,5 +1,6 @@
 ## Changelog:
-Update (22.03.22): A Special Thanks to TadasMit, who bought you the Trident Version of the Idlers! There is more done as just removing the holes, its generally perfectly adopted for the Trident. So if you still using the 2.4 Idlers on a Trident, its time to upgrade! Another Note: Those who are using his Idlers (downloaded from the Issue thread where he posted them, don't need to Change anything!). There are small updates to 2.4 as well, just ignore those, these updates are only for first timers, to clear things a bit up. So nothing changed there other as names!
+- Update (25.07.22): Nipplefix, hopefully the centering pins that tend to break, are fixed now. Try the "Nipplefix" version :-)
+- Update (22.03.22): A Special Thanks to TadasMit, who bought you the Trident Version of the Idlers! There is more done as just removing the holes, its generally perfectly adopted for the Trident. So if you still using the 2.4 Idlers on a Trident, its time to upgrade! Another Note: Those who are using his Idlers (downloaded from the Issue thread where he posted them, don't need to Change anything!). There are small updates to 2.4 as well, just ignore those, these updates are only for first timers, to clear things a bit up. So nothing changed there other as names!
 <details>
   <summary>
     Old Changelog
