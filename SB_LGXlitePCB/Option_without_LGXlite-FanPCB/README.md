@@ -3,7 +3,8 @@
 - It is not tested yet, so feel free to try :-)<br>
 <br>
 - BOM: 2x M3x6 BHCS - Please don't use M3x8 screws!<br>
-<br>
+
+
 ## Pictures:
 ![](./Images/stickingout.jpg)
 ![](./Images/1.jpg)
