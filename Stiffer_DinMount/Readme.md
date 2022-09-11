@@ -2,7 +2,7 @@
 ##### Credits:
 - Voron-Team: Its the default generic DIN Mount, but modified!
 
-## Changelog:
+###### Changelog:
 - 11.09.2022: M3 Version with and without Inserts<br>
 <details>
   <summary>
