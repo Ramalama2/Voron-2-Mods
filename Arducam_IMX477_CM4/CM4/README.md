@@ -9,10 +9,6 @@
 
 #
 
-#
-
-#
-
 <details>
   <summary>
     CREDITS: Voron-Team for the Din-Clips & Myself xD
@@ -41,7 +37,6 @@
 - 1x Noctua NF A4x10 5v PWM (Any Other 4010 5v Fan is fine either)<br>
 - 4x ST-FANSCREW (Comes with Noctua Fans already)<br>
 - 1x Nema17 Heatsink: <a href="https://www.amazon.com/dp/B07B5YK21M">Amazon</a>, <a href="https://de.aliexpress.com/item/4000723868050.html?spm=a2g0o.order_list.0.0.43975c5fCOICeH&gatewayAdapt=glo2deu">Aliexpress</a><br>
-<center><img src="https://github.com/Ramalama2/Voron-2-Mods/raw/main/Front_Idlers/Pics/Tipp-Seam.jpg" height="100"></center><br>
 </details>
 
 <details>
