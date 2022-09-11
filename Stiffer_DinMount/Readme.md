@@ -2,6 +2,15 @@
 ##### Credits:
 - Voron-Team: Its the default generic DIN Mount, but modified!
 
+## Changelog:
+- 11.09.2022: M3 Version with and without Inserts<br>
+<details>
+  <summary>
+    Old Changelog
+  </summary>
+-Release (01.09.2021): Release!
+</details>
+
 ###### Printing:
 - Default voron settings, correct orientation, no supports needed!
 
