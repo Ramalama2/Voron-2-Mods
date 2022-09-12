@@ -1,4 +1,4 @@
-###### MANUAL:
+###### Pictures:
 
 ![](./FanCase_BOM.jpg)<br>
 ![](./4.jpg)<br>
