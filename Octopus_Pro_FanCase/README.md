@@ -67,6 +67,7 @@
 
 ![](./Pic-Index.jpg)<br>
 ![](./Images/4.jpg)<br>
-![](./Images/FanCase_BOM.jpg)
+![](./Images/FanCase_BOM.jpg)<br>
+![](./Manual/Heatsink_Compatibility.jpg)
 
 #
