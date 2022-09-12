@@ -61,7 +61,9 @@
 - The 5160 Pro Drivers are getting extremely hot! You need to cool them!<br>
 - I highly recommend the <a href="https://github.com/Gi7mo/TinyFan">TinyFan from Gi7mo!</a><br>
 - The FanCase has Cablehole exits at the back, for the TinyFan.<br>
-- You don't need it, but its amazing for Noctua fans to see RPM and control those Correctly with a PWM signal.<br></details>
+- You don't need it, but its amazing for Noctua fans to see RPM and control those Correctly with a PWM signal.<br>
+- Every Heatsink of the 5160 Pro Drivers fits! I have tested Fysetc 5160 HV/BTT 5160 Pro v1 and the new v1.3 either!<br>
+- Don't even imagine to use drivers without heatsinks, those fans won't save your drivers life!<br></details>
 
 #
 
