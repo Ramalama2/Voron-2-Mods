@@ -1,16 +1,14 @@
-#### Octopus Pro FanCase aka Octoglasses
-
-## Changelog:
-- Release (11.09.22): Octoglasses
+<h1 align="center">Octopus Pro FanCase aka Octoglasses</h3></p>
+<br>
 <details>
   <summary>
-    Old Changelog
+   Changelog: Release (11.09.22): Octoglasses
   </summary>
 - Nothing Yet! <br><br>
 </details>
 
 #
-
+<br>
 <details>
   <summary>
     CREDITS: Voron-Team for the Din-Clips & Gi7mo! for <a href="https://github.com/Gi7mo/TinyFan">TinyFan</a>!
@@ -20,6 +18,8 @@
 * Community: Feelingwise discord is a Place filled with only nice and always helpful People! A special thanks to all of them, i personally just love everyone there!<br>
 </details>
 
+#
+<br>
 <details>
   <summary>
     Print Settings:
@@ -27,6 +27,8 @@
 - Default Voron settings, correct orientation, no supports needed!<br>
 </details>
 
+#
+<br>
 <details>
   <summary>
     BOM:
@@ -42,9 +44,15 @@
 - 1x <a href="https://github.com/Gi7mo/TinyFan">TinyFan</a>, you can get one from Gi7mo! in Germany. I highly recommend one for Noctua Fans!<br>
 </details>
 
+#
+<br>
+<details><summary>Assembly: <a href="./Manual.pdf">Manual PDF</a> or <a href="./Manual/">Manual Images</a></summary>
+- <a href="./Manual.pdf">Manual as PDF</a><br>
+- <a href="./Manual/">Manual as Images</a>
+</details>
 
-# Assembly: <a href="./Manual.pdf">Manual PDF</a> or <a href="./Manual/">Manual Images</a>
-
+#
+<br>
 <details>
   <summary>
     Description:
