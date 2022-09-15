@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td align="center"><a href="./Wagomount_221">Wago 221 DIN Mount<br><img src="./Wagomount_221/Pic-Index.jpg" alt="1" width=196px></a></td>
-    <td align="center"><a href="./Stiffer_DinMount">Stiffer DIN Mount<br><img src="./Stiffer_DinMount/Pic-Index.jpg" alt="1" width=196px></a></td>
+    <td align="center"><a href="./DinClips">Din Clips<br><img src="./DinClips/Pic-Index.jpg" alt="1" width=196px></a></td>
   </tr>
     <tr>
     <td colspan="2" align="center"><a href="./Deprecated">Deprecated Stuff<br><img src="./Deprecated/Pic-Index.png" alt="1" width=196px></a></td>
