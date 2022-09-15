@@ -1,6 +1,6 @@
-## Stiffer DIN Mount
+## DIN Clips/Brackets
 ### Credits:
-- Voron-Team: Its the default generic DIN Mount, but modified!<br>
+- Voron-Team: Its the default generic DIN Clips, but modified!<br>
 
 #### Changelog:
 - 15.09.2022: New-Style Dinclips with M3-Inserts<br>
