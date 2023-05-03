@@ -40,7 +40,7 @@ Bucket: https://www.youtube.com/shorts/od5NZhmdGk4<br>
   </summary>
 - 20x 6x3 Magnets!<br>
 - 4x M3x8 SHCS - DIN 912<br>
-- 6x WAGO 221<br>
+- 6x WAGO 221-412<br>
 </details>
 
 <details>
