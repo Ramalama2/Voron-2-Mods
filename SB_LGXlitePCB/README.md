@@ -68,6 +68,7 @@ But at least you can now get the thing running and replace later when you get th
 - There are 2 options: CW1 Carriage or CW2 Carriage! I do highly recommend the CW1 Carriage, because on the CW2 the only change are the inserts from the front, because the CW2 extruder needs that. Those inserts will likely fall out after a time! As this is the only change, i highly recommend the CW1 Version!<br>
 - PCB_Mount_Offset_0.6mm and PCB_Mount_Default: Try first the default version, if you issue problems try the "Offset Version", it puts the PCB 0,6mm further back if the connector isnt seamless with the front of the Mount.<br>
 - Optionally for best compatibility, you can print [Optional]_Stealthburner_Body. It is not needed, but it will make fittings minimally better!<br>
+- Its recommended to cut the pins flush on the Hartk PCB! They can or are in most cases too long.<br>
 </details>
 
 ## Pictures:
