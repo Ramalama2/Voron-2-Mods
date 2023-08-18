@@ -1,3 +1,12 @@
+- Hey Boys & Girls, im sorry but i won't come back and don't plan to update anything as well.
+- Thats why i have Archieved this Repository now.
+- That way people will clearly see, that they should not expect anything here and probably switch to another/better/newer Mods that are available in the meantime.
+
+Otherwise, it was a great time and a great community with a lot of cool people!
+Cheers :-)</h1></center>
+
+------------------------
+
 <h1 align="center">Mod Index:</h1>
 <table align="center">
   <tr>
